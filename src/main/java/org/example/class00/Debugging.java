@@ -1,11 +1,10 @@
-package br.edu.ifsp.poo.class0;
+package org.example.class00;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
 public class Debugging {
-
     public static void main(String[] args) {
 
         List<String> students = new ArrayList<>();
@@ -31,7 +30,7 @@ public class Debugging {
 
         for (int i = 0; i < students.size(); i++) {
             System.out.println(students.get(i) + " (" + grades.get(i) + ")");
-            sum += grades.get(i);
+            sum = grades.get(i);
         }
 
         double avg = sum / students.size();
