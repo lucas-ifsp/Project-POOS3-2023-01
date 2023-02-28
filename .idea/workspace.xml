@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c2bbb50b-a3f7-4646-89c0-0e1cd34b0e2e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class00/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/class00/PrincipalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/class01/IOExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list01/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex01Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex02Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex03Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex04Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex05Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex06Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex07Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex08Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex09Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/list01/Ex10Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Debugging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/class00/Debugging.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,45 +57,50 @@
     </option>
   </component>
   <component name="ProjectId" id="2LOU6VVuUZs8U9BDjzkQvFx5OY2" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.list01" />
       <recent name="org.example.class00" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.list01" />
       <recent name="org.example" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Principal">
-    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class00.Debugging" />
+  <component name="RunManager" selected="Application.Ex01">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.list02.Ex01" />
       <module name="Project-POOS3-2023-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class00.*" />
+          <option name="PATTERN" value="org.example.list02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,23 +108,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.class00.Principal" />
+    <configuration name="Ex07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.list01.Ex07" />
       <module name="Project-POOS3-2023-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.class00.*" />
+          <option name="PATTERN" value="org.example.list01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex06Test.testCompute (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-POOS3-2023-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.list01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.list01" />
+      <option name="MAIN_CLASS_NAME" value="org.example.list01.Ex06Test" />
+      <option name="METHOD_NAME" value="testCompute(double,double,double,double,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex07Test.testCompute (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-POOS3-2023-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.list01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.list01" />
+      <option name="MAIN_CLASS_NAME" value="org.example.list01.Ex07Test" />
+      <option name="METHOD_NAME" value="testCompute(int,double,double,double,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex07Test.testCompute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Project-POOS3-2023-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.list01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.list01" />
+      <option name="MAIN_CLASS_NAME" value="org.example.list01.Ex07Test" />
+      <option name="METHOD_NAME" value="testCompute(int,double,double,int,java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Debugging" />
+        <item itemvalue="Application.Ex01" />
+        <item itemvalue="JUnit.Ex07Test.testCompute (1)" />
+        <item itemvalue="Application.Ex07" />
+        <item itemvalue="JUnit.Ex07Test.testCompute" />
+        <item itemvalue="JUnit.Ex06Test.testCompute (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -115,21 +189,16 @@
       <updated>1675741450719</updated>
       <workItem from="1675741452403" duration="152000" />
       <workItem from="1675778152529" duration="2166000" />
+      <workItem from="1675804690873" duration="1456000" />
+      <workItem from="1676342696827" duration="329000" />
+      <workItem from="1676381654862" duration="3816000" />
+      <workItem from="1676644194149" duration="637000" />
+      <workItem from="1677089605824" duration="33000" />
+      <workItem from="1677503627746" duration="11315000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/class00/Debugging.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
